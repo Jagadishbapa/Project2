@@ -14,3 +14,8 @@ https://drive.google.com/file/d/0B-iR1-c9XsriWDBUMVNZR3VtTUk/view?usp=sharing
 Anything that doesn't work:
 
 
+
+Grade
+===
+The code must be in GitHub, this is how we control late submissions.
+Please speak with the professor to know if I can grade this one.
